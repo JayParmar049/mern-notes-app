@@ -41,3 +41,7 @@
 
 - **Scalability:**
 *Implement JWT authentication in a manner that supports efficient scaling, as it's a stateless protocol that handles increasing user loads effectively.*
+
+## Tech Stack
+
+JavaScript, SCSS, React, Node, Vite, JWT.
